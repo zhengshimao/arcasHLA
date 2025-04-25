@@ -57,7 +57,7 @@ __date__        = '2022-01-27'
 rootDir = dirname(realpath(__file__)) + '/../'
 
 IMGTHLA          = rootDir + 'dat/IMGTHLA/'
-IMGTHLA_git      = 'https://github.com/ANHIG/IMGTHLA.git'
+IMGTHLA_git      = 'https://bgithub.xyz/ANHIG/IMGTHLA.git' # 'https://github.com/ANHIG/IMGTHLA.git'
 hla_dat          = rootDir + 'dat/IMGTHLA/hla.dat'
 hla_nom_g        = rootDir + 'dat/IMGTHLA/wmda/hla_nom_g.txt'
 hla_nom_p        = rootDir + 'dat/IMGTHLA/wmda/hla_nom_p.txt'
